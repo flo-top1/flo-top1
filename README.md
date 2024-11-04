@@ -16,7 +16,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![mê mê](https://github.com/user-attachments/assets/f9fb6728-41d1-4959-a396-1a89f9eb101e)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=flo-top1&icon=4&color=4)](https://visitcount.itsvg.in)
